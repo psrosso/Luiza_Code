@@ -6,12 +6,12 @@ Atividades realizadas para a 5ª edição do Luiza Code, programa de formação 
 
 ## Desenvolvedora :octocat:
 
-[<img src="https://avatars2.githubusercontent.com/u/40778029?s=400&u=0ff80f01d3cb66b2af110aea5d30701d8ac6b6ec&v=4" width=115><br><sub>Bee Bones</sub>](https://github.com/beebones) 
+[<img src="https://avatars.githubusercontent.com/u/79259481?s=400&u=e9f8f346fe341894c69cde41e8e79cd952fbfcce&v=4" width=115><br><sub>Rafaela Rosso</sub>](https://github.com/beebones) 
 | :---: | 
 
-> Status do Projeto: Concluido :heavy_check_mark:
+> Status do Projeto: Em andamento ████▒▒▒▒▒ 40%:
 
-### Tópicos 
+<!-- ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-star)
 
@@ -183,4 +183,4 @@ Permite visualizar uma animação enquanto o usuário espera o e-mail ser enviad
 
 ## Dependência externa :incoming_envelope:
 [Server Mailjet](https://github.com/beebones/server-mailjet) - Back-end feito em **Golang** utiizado para consumir api **mailjet** e enviar os emails com o certificado.
-<hr/>
+<hr/> -->
